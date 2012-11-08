@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<lst name="responseHeader">
+		<int name="status">0</int>
+		<int name="QTime">29</int>
+		<lst name="params">
+			<str name="fl">*,score</str>
+			<str name="q">document</str>
+			<str name="scoreDist">true</str>
+			<str name="rows">100</str>
+		</lst>
+	</lst>
+	<result name="response" numFound="100" start="0" maxScore="37.544556">
+		<doc>
+			<str name="id">99</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">99.0</float>
+			<float name="score">37.544556</float>
+		</doc>
+		<doc>
+			<str name="id">98</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">98.0</float>
+			<float name="score">37.169952</float>
+		</doc>
+		<doc>
+			<str name="id">97</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">97.0</float>
+			<float name="score">36.79535</float>
+		</doc>
+		<doc>
+			<str name="id">96</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">96.0</float>
+			<float name="score">36.42075</float>
+		</doc>
+		<doc>
+			<str name="id">95</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">95.0</float>
+			<float name="score">36.046146</float>
+		</doc>
+		<doc>
+			<str name="id">94</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">94.0</float>
+			<float name="score">35.671547</float>
+		</doc>
+		<doc>
+			<str name="id">93</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">93.0</float>
+			<float name="score">35.296944</float>
+		</doc>
+		<doc>
+			<str name="id">92</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">92.0</float>
+			<float name="score">34.92234</float>
+		</doc>
+		<doc>
+			<str name="id">91</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">91.0</float>
+			<float name="score">34.54774</float>
+		</doc>
+		<doc>
+			<str name="id">90</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">90.0</float>
+			<float name="score">34.173138</float>
+		</doc>
+		<doc>
+			<str name="id">89</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">89.0</float>
+			<float name="score">33.79854</float>
+		</doc>
+		<doc>
+			<str name="id">88</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">88.0</float>
+			<float name="score">33.423935</float>
+		</doc>
+		<doc>
+			<str name="id">87</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">87.0</float>
+			<float name="score">33.04933</float>
+		</doc>
+		<doc>
+			<str name="id">86</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">86.0</float>
+			<float name="score">32.674732</float>
+		</doc>
+		<doc>
+			<str name="id">85</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">85.0</float>
+			<float name="score">32.30013</float>
+		</doc>
+		<doc>
+			<str name="id">84</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">84.0</float>
+			<float name="score">31.925528</float>
+		</doc>
+		<doc>
+			<str name="id">83</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">83.0</float>
+			<float name="score">31.550926</float>
+		</doc>
+		<doc>
+			<str name="id">82</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">82.0</float>
+			<float name="score">31.176325</float>
+		</doc>
+		<doc>
+			<str name="id">81</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">81.0</float>
+			<float name="score">30.801722</float>
+		</doc>
+		<doc>
+			<str name="id">80</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">80.0</float>
+			<float name="score">30.42712</float>
+		</doc>
+		<doc>
+			<str name="id">79</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">79.0</float>
+			<float name="score">30.052519</float>
+		</doc>
+		<doc>
+			<str name="id">78</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">78.0</float>
+			<float name="score">29.677917</float>
+		</doc>
+		<doc>
+			<str name="id">77</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">77.0</float>
+			<float name="score">29.303316</float>
+		</doc>
+		<doc>
+			<str name="id">76</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">76.0</float>
+			<float name="score">28.928713</float>
+		</doc>
+		<doc>
+			<str name="id">75</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">75.0</float>
+			<float name="score">28.554111</float>
+		</doc>
+		<doc>
+			<str name="id">74</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">74.0</float>
+			<float name="score">28.17951</float>
+		</doc>
+		<doc>
+			<str name="id">73</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">73.0</float>
+			<float name="score">27.804909</float>
+		</doc>
+		<doc>
+			<str name="id">72</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">72.0</float>
+			<float name="score">27.430307</float>
+		</doc>
+		<doc>
+			<str name="id">71</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">71.0</float>
+			<float name="score">27.055704</float>
+		</doc>
+		<doc>
+			<str name="id">70</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">70.0</float>
+			<float name="score">26.681103</float>
+		</doc>
+		<doc>
+			<str name="id">69</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">69.0</float>
+			<float name="score">26.306501</float>
+		</doc>
+		<doc>
+			<str name="id">68</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">68.0</float>
+			<float name="score">25.9319</float>
+		</doc>
+		<doc>
+			<str name="id">67</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">67.0</float>
+			<float name="score">25.557299</float>
+		</doc>
+		<doc>
+			<str name="id">66</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">66.0</float>
+			<float name="score">25.182695</float>
+		</doc>
+		<doc>
+			<str name="id">65</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">65.0</float>
+			<float name="score">24.808094</float>
+		</doc>
+		<doc>
+			<str name="id">64</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">64.0</float>
+			<float name="score">24.433493</float>
+		</doc>
+		<doc>
+			<str name="id">63</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">63.0</float>
+			<float name="score">24.058891</float>
+		</doc>
+		<doc>
+			<str name="id">62</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">62.0</float>
+			<float name="score">23.68429</float>
+		</doc>
+		<doc>
+			<str name="id">61</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">61.0</float>
+			<float name="score">23.309687</float>
+		</doc>
+		<doc>
+			<str name="id">60</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">60.0</float>
+			<float name="score">22.935085</float>
+		</doc>
+		<doc>
+			<str name="id">59</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">59.0</float>
+			<float name="score">22.560484</float>
+		</doc>
+		<doc>
+			<str name="id">58</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">58.0</float>
+			<float name="score">22.185883</float>
+		</doc>
+		<doc>
+			<str name="id">57</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">57.0</float>
+			<float name="score">21.811281</float>
+		</doc>
+		<doc>
+			<str name="id">56</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">56.0</float>
+			<float name="score">21.436678</float>
+		</doc>
+		<doc>
+			<str name="id">55</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">55.0</float>
+			<float name="score">21.062077</float>
+		</doc>
+		<doc>
+			<str name="id">54</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">54.0</float>
+			<float name="score">20.687475</float>
+		</doc>
+		<doc>
+			<str name="id">53</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">53.0</float>
+			<float name="score">20.312874</float>
+		</doc>
+		<doc>
+			<str name="id">52</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">52.0</float>
+			<float name="score">19.938272</float>
+		</doc>
+		<doc>
+			<str name="id">51</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">51.0</float>
+			<float name="score">19.56367</float>
+		</doc>
+		<doc>
+			<str name="id">50</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">50.0</float>
+			<float name="score">19.189068</float>
+		</doc>
+		<doc>
+			<str name="id">49</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">49.0</float>
+			<float name="score">18.814466</float>
+		</doc>
+		<doc>
+			<str name="id">48</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">48.0</float>
+			<float name="score">18.439865</float>
+		</doc>
+		<doc>
+			<str name="id">47</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">47.0</float>
+			<float name="score">18.065264</float>
+		</doc>
+		<doc>
+			<str name="id">46</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">46.0</float>
+			<float name="score">17.69066</float>
+		</doc>
+		<doc>
+			<str name="id">45</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">45.0</float>
+			<float name="score">17.31606</float>
+		</doc>
+		<doc>
+			<str name="id">44</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">44.0</float>
+			<float name="score">16.941458</float>
+		</doc>
+		<doc>
+			<str name="id">43</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">43.0</float>
+			<float name="score">16.566856</float>
+		</doc>
+		<doc>
+			<str name="id">42</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">42.0</float>
+			<float name="score">16.192253</float>
+		</doc>
+		<doc>
+			<str name="id">41</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">41.0</float>
+			<float name="score">15.817652</float>
+		</doc>
+		<doc>
+			<str name="id">40</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">40.0</float>
+			<float name="score">15.443049</float>
+		</doc>
+		<doc>
+			<str name="id">39</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">39.0</float>
+			<float name="score">15.068448</float>
+		</doc>
+		<doc>
+			<str name="id">38</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">38.0</float>
+			<float name="score">14.693846</float>
+		</doc>
+		<doc>
+			<str name="id">37</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">37.0</float>
+			<float name="score">14.319244</float>
+		</doc>
+		<doc>
+			<str name="id">36</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">36.0</float>
+			<float name="score">13.944643</float>
+		</doc>
+		<doc>
+			<str name="id">35</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">35.0</float>
+			<float name="score">13.570041</float>
+		</doc>
+		<doc>
+			<str name="id">34</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">34.0</float>
+			<float name="score">13.195439</float>
+		</doc>
+		<doc>
+			<str name="id">33</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">33.0</float>
+			<float name="score">12.820837</float>
+		</doc>
+		<doc>
+			<str name="id">32</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">32.0</float>
+			<float name="score">12.446236</float>
+		</doc>
+		<doc>
+			<str name="id">31</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">31.0</float>
+			<float name="score">12.071634</float>
+		</doc>
+		<doc>
+			<str name="id">30</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">30.0</float>
+			<float name="score">11.697032</float>
+		</doc>
+		<doc>
+			<str name="id">29</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">29.0</float>
+			<float name="score">11.322431</float>
+		</doc>
+		<doc>
+			<str name="id">28</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">28.0</float>
+			<float name="score">10.947828</float>
+		</doc>
+		<doc>
+			<str name="id">27</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">27.0</float>
+			<float name="score">10.573227</float>
+		</doc>
+		<doc>
+			<str name="id">26</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">26.0</float>
+			<float name="score">10.198626</float>
+		</doc>
+		<doc>
+			<str name="id">25</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">25.0</float>
+			<float name="score">9.824023</float>
+		</doc>
+		<doc>
+			<str name="id">24</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">24.0</float>
+			<float name="score">9.449422</float>
+		</doc>
+		<doc>
+			<str name="id">23</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">23.0</float>
+			<float name="score">9.07482</float>
+		</doc>
+		<doc>
+			<str name="id">22</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">22.0</float>
+			<float name="score">8.700218</float>
+		</doc>
+		<doc>
+			<str name="id">21</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">21.0</float>
+			<float name="score">8.325617</float>
+		</doc>
+		<doc>
+			<str name="id">20</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">20.0</float>
+			<float name="score">7.951015</float>
+		</doc>
+		<doc>
+			<str name="id">19</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">19.0</float>
+			<float name="score">7.576413</float>
+		</doc>
+		<doc>
+			<str name="id">18</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">18.0</float>
+			<float name="score">7.201812</float>
+		</doc>
+		<doc>
+			<str name="id">17</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">17.0</float>
+			<float name="score">6.82721</float>
+		</doc>
+		<doc>
+			<str name="id">16</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">16.0</float>
+			<float name="score">6.452608</float>
+		</doc>
+		<doc>
+			<str name="id">15</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">15.0</float>
+			<float name="score">6.0780063</float>
+		</doc>
+		<doc>
+			<str name="id">14</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">14.0</float>
+			<float name="score">5.7034044</float>
+		</doc>
+		<doc>
+			<str name="id">13</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">13.0</float>
+			<float name="score">5.328803</float>
+		</doc>
+		<doc>
+			<str name="id">12</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">12.0</float>
+			<float name="score">4.954201</float>
+		</doc>
+		<doc>
+			<str name="id">11</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">11.0</float>
+			<float name="score">4.5795994</float>
+		</doc>
+		<doc>
+			<str name="id">10</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">10.0</float>
+			<float name="score">4.2049975</float>
+		</doc>
+		<doc>
+			<str name="id">9</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">9.0</float>
+			<float name="score">3.830396</float>
+		</doc>
+		<doc>
+			<str name="id">8</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">8.0</float>
+			<float name="score">3.455794</float>
+		</doc>
+		<doc>
+			<str name="id">7</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">7.0</float>
+			<float name="score">3.0811923</float>
+		</doc>
+		<doc>
+			<str name="id">6</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">6.0</float>
+			<float name="score">2.7065907</float>
+		</doc>
+		<doc>
+			<str name="id">5</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">5.0</float>
+			<float name="score">2.3319888</float>
+		</doc>
+		<doc>
+			<str name="id">4</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">4.0</float>
+			<float name="score">1.957387</float>
+		</doc>
+		<doc>
+			<str name="id">3</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">3.0</float>
+			<float name="score">1.5827854</float>
+		</doc>
+		<doc>
+			<str name="id">2</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">2.0</float>
+			<float name="score">1.2081835</float>
+		</doc>
+		<doc>
+			<str name="id">1</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">1.0</float>
+			<float name="score">0.8335818</float>
+		</doc>
+		<doc>
+			<str name="id">0</str>
+			<str name="name">Name of document</str>
+			<float name="doc_feature">0.0</float>
+			<float name="score">0.45898002</float>
+		</doc>
+	</result>
+	<lst name="scoreStats">
+		<float name="min">0.45898002</float>
+		<float name="max">37.544556</float>
+		<float name="avg">19.001766</float>
+		<float name="stdDev">10.813288</float>
+		<long name="numDocs">100</long>
+		<float name="sumSquaredScores">47799.43</float>
+		<float name="sumScores">1900.1766</float>
+	</lst>
+</response>
